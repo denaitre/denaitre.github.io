@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dimitri Pertin</title>
-    <link>http://denaitre.github.io/</link>
-    <description>Recent content on Dimitri Pertin</description>
+    <title>Posts on Dimitri Pertin</title>
+    <link>http://denaitre.github.io/posts/</link>
+    <description>Recent content in Posts on Dimitri Pertin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Feb 2018 22:43:52 +0100</lastBuildDate>
     
-	<atom:link href="http://denaitre.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://denaitre.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
