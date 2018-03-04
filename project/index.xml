@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Dimitri Pertin</title>
+    <link>http://denaitre.github.io/project/</link>
+    <description>Recent content in Projects on Dimitri Pertin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 02 Mar 2018 14:45:44 +0100</lastBuildDate>
+    
+	<atom:link href="http://denaitre.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>EnOS: Experimental eNvironment for OpenStack</title>
+      <link>http://denaitre.github.io/project/enos/</link>
+      <pubDate>Fri, 02 Mar 2018 14:45:44 +0100</pubDate>
+      
+      <guid>http://denaitre.github.io/project/enos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovery: Beyond the Clouds</title>
+      <link>http://denaitre.github.io/project/discovery/</link>
+      <pubDate>Fri, 02 Mar 2018 14:41:15 +0100</pubDate>
+      
+      <guid>http://denaitre.github.io/project/discovery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rozobox</title>
+      <link>http://denaitre.github.io/project/rozobox/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://denaitre.github.io/project/rozobox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FEC4Cloud: Forward Error Correcting codes for Cloud storage architectures</title>
+      <link>http://denaitre.github.io/project/fec4cloud/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://denaitre.github.io/project/fec4cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RozoFS</title>
+      <link>http://denaitre.github.io/project/rozofs/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://denaitre.github.io/project/rozofs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

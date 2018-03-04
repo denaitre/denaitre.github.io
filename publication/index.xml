@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Dimitri Pertin</title>
+    <link>http://denaitre.github.io/publication/</link>
+    <description>Recent content in Publications on Dimitri Pertin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://denaitre.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Production Deployment Tools for IaaSes: an Overall Model and Survey</title>
+      <link>http://denaitre.github.io/publication/ficloud2017coullon/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://denaitre.github.io/publication/ficloud2017coullon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward a Holistic Framework for Conducting Scientific Evaluations of OpenStack</title>
+      <link>http://denaitre.github.io/publication/ccgrid2017cherrueau/</link>
+      <pubDate>Sun, 14 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://denaitre.github.io/publication/ccgrid2017cherrueau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mojette Erasure Code for Distributed Storage</title>
+      <link>http://denaitre.github.io/publication/phd2016pertin/</link>
+      <pubDate>Fri, 22 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://denaitre.github.io/publication/phd2016pertin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of RAID-6 Erasure Codes</title>
+      <link>http://denaitre.github.io/publication/sifwict2015pertin/</link>
+      <pubDate>Fri, 12 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://denaitre.github.io/publication/sifwict2015pertin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Re-projection without Reconstruction</title>
+      <link>http://denaitre.github.io/publication/ri2014pertin/</link>
+      <pubDate>Tue, 25 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://denaitre.github.io/publication/ri2014pertin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed File System Based on Erasure Coding for I/O-Intensive Applications</title>
+      <link>http://denaitre.github.io/publication/eurosys2014pertin/</link>
+      <pubDate>Sun, 13 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://denaitre.github.io/publication/eurosys2014pertin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Distributed File System Based on Erasure Coding for I/O-Intensive Applications</title>
+      <link>http://denaitre.github.io/publication/closer2014pertin/</link>
+      <pubDate>Thu, 03 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://denaitre.github.io/publication/closer2014pertin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial Implementation for Erasure Coding by Finite Radon Transform</title>
+      <link>http://denaitre.github.io/publication/isivc2012pertin/</link>
+      <pubDate>Wed, 04 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://denaitre.github.io/publication/isivc2012pertin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
