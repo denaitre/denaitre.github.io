@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Dimitri Pertin</title>
-    <link>http://denaitre.github.io/home/</link>
+    <link>http://dpertin.github.io/home/</link>
     <description>Recent content in Homes on Dimitri Pertin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://denaitre.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://dpertin.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://denaitre.github.io/home/about/</link>
+      <link>http://dpertin.github.io/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://denaitre.github.io/home/about/</guid>
+      <guid>http://dpertin.github.io/home/about/</guid>
       <description>Biography After receiving a Master of Engineering degree in Systems and Networks from the University of Nantes in 2012, I started a Ph.D in computer science with fundings of the company Rozo Systems, under the supervision of Nicolas Normand and Benoît Parrein. Dealing with the designing of fault-tolerant, low-cost and high-performance coding techniques for distributed storage systems, my thesis was defended on April 2016.
 Since my defense, I have conducted a postdoctoral position in the joint team STACK at Inria / LS2N.</description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>http://denaitre.github.io/home/publications/</link>
+      <link>http://dpertin.github.io/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>http://denaitre.github.io/home/publications/</guid>
+      <guid>http://dpertin.github.io/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>http://denaitre.github.io/home/projects/</link>
+      <link>http://dpertin.github.io/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://denaitre.github.io/home/projects/</guid>
+      <guid>http://dpertin.github.io/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://denaitre.github.io/home/contact/</link>
+      <link>http://dpertin.github.io/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://denaitre.github.io/home/contact/</guid>
+      <guid>http://dpertin.github.io/home/contact/</guid>
       <description></description>
     </item>
     
