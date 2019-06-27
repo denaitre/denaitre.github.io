@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Dimitri Pertin</title>
-    <link>http://dpertin.github.io/publication/</link>
-    <description>Recent content in Publications on Dimitri Pertin</description>
+    <title>1 on Dimitri Pertin</title>
+    <link>http://dpertin.github.io/publication_types/1/</link>
+    <description>Recent content in 1 on Dimitri Pertin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Jul 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://dpertin.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://dpertin.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -49,15 +49,6 @@
     </item>
     
     <item>
-      <title>Mojette Erasure Code for Distributed Storage</title>
-      <link>http://dpertin.github.io/publication/phd2016pertin/</link>
-      <pubDate>Fri, 22 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://dpertin.github.io/publication/phd2016pertin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Comparison of RAID-6 Erasure Codes</title>
       <link>http://dpertin.github.io/publication/sifwict2015pertin/</link>
       <pubDate>Fri, 12 Jun 2015 00:00:00 +0000</pubDate>
@@ -72,15 +63,6 @@
       <pubDate>Tue, 25 Nov 2014 00:00:00 +0000</pubDate>
       
       <guid>http://dpertin.github.io/publication/ri2014pertin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Mojette Erasure Code for Distributed File Systems</title>
-      <link>http://dpertin.github.io/publication/eurosys2014pertin/</link>
-      <pubDate>Sun, 13 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://dpertin.github.io/publication/eurosys2014pertin/</guid>
       <description></description>
     </item>
     

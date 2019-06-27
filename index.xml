@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dimitri Pertin on Dimitri Pertin</title>
@@ -7,8 +6,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Jul 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Madeus: A formal deployment model</title>
+      <link>http://dpertin.github.io/publication/4pad2018chardet/</link>
+      <pubDate>Mon, 16 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://dpertin.github.io/publication/4pad2018chardet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edge Computing Resource Management System: a Critical Building Block! Initiating the debate via OpenStack</title>
+      <link>http://dpertin.github.io/publication/usenix2018cherrueau/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://dpertin.github.io/publication/usenix2018cherrueau/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>EnOS: Experimental eNvironment for OpenStack</title>
@@ -291,7 +308,7 @@ git submodule update --init --recursive
     </item>
     
     <item>
-      <title>Distributed File System Based on Erasure Coding for I/O-Intensive Applications</title>
+      <title>The Mojette Erasure Code for Distributed File Systems</title>
       <link>http://dpertin.github.io/publication/eurosys2014pertin/</link>
       <pubDate>Sun, 13 Apr 2014 00:00:00 +0000</pubDate>
       
@@ -305,24 +322,6 @@ git submodule update --init --recursive
       <pubDate>Thu, 03 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>http://dpertin.github.io/publication/closer2014pertin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>FEC4Cloud: Forward Error Correcting codes for Cloud storage architectures</title>
-      <link>http://dpertin.github.io/project/fec4cloud/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://dpertin.github.io/project/fec4cloud/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spatial Implementation for Erasure Coding by Finite Radon Transform</title>
-      <link>http://dpertin.github.io/publication/isivc2012pertin/</link>
-      <pubDate>Wed, 04 Jul 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://dpertin.github.io/publication/isivc2012pertin/</guid>
       <description></description>
     </item>
     

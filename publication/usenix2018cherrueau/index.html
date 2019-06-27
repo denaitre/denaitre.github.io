@@ -17,10 +17,10 @@
       
     
   
-  <meta name="description" content="Erasure codes can generate data redundancy in distributed storage systems. This redundancy can be used to recover missing data in case of a failure. Codes have the benefit of reducing the generated amount of redundancy drastically,compared to plain data replication. However, this reduction is combined with a significant computational complexity, which penalizes encoding and decoding performances, and limits the use of coding to cold data. In this thesis, we focus on the use of the Mojette transform as an effective erasure code, adapted to hot data. The resulting code requires more redundancy than classical codes though. The first contribution of this research work deals with the design of a systematic version of the Mojette erasure code. This version provides better performances while reducing the required amount of redundancy. The second contribution covers the integration of this solution in the distributed file system RozoFS. This integration enables the system to provide a continuous service despite failures, while being able to manage hot data with half the volume of data compared to replication-based systems. A third research focus addresses the design of a distributed method to compute extra Mojette codeword symbols. This method contributes to restore a redundancy threshold in the storage system.">
+  <meta name="description" content="While it is clear that edge infrastructures are required for emerging use-cases related to IoT, VR or NFV, there is currently no resource management system able to deliver all features for the edge that made cloud computing successful (e.g., an OpenStack for the edge). Since building a system from scratch is seen by many as impractical, this paper provides reflections regarding how existing solutions can be leveraged. To that end, we provide a list of the features required to operate and use edge computing resources, and investigate how an existing IaaS manager (i.e., OpenStack) satisfies these requirements. Finally, we identify from this study two approaches to design an edge infrastructure manager that fulfils our requirements, and discuss their pros and cons.">
 
   
-  <link rel="alternate" hreflang="en-us" href="http://dpertin.github.io/publication/phd2016pertin/">
+  <link rel="alternate" hreflang="en-us" href="http://dpertin.github.io/publication/usenix2018cherrueau/">
 
   
 
@@ -64,7 +64,7 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="http://dpertin.github.io/publication/phd2016pertin/">
+  <link rel="canonical" href="http://dpertin.github.io/publication/usenix2018cherrueau/">
 
   <meta property="twitter:card" content="summary_large_image">
   
@@ -72,19 +72,19 @@
   <meta property="twitter:creator" content="@https://twitter.com/denaitre">
   
   <meta property="og:site_name" content="Dimitri Pertin">
-  <meta property="og:url" content="http://dpertin.github.io/publication/phd2016pertin/">
-  <meta property="og:title" content="Mojette Erasure Code for Distributed Storage | Dimitri Pertin">
-  <meta property="og:description" content="Erasure codes can generate data redundancy in distributed storage systems. This redundancy can be used to recover missing data in case of a failure. Codes have the benefit of reducing the generated amount of redundancy drastically,compared to plain data replication. However, this reduction is combined with a significant computational complexity, which penalizes encoding and decoding performances, and limits the use of coding to cold data. In this thesis, we focus on the use of the Mojette transform as an effective erasure code, adapted to hot data. The resulting code requires more redundancy than classical codes though. The first contribution of this research work deals with the design of a systematic version of the Mojette erasure code. This version provides better performances while reducing the required amount of redundancy. The second contribution covers the integration of this solution in the distributed file system RozoFS. This integration enables the system to provide a continuous service despite failures, while being able to manage hot data with half the volume of data compared to replication-based systems. A third research focus addresses the design of a distributed method to compute extra Mojette codeword symbols. This method contributes to restore a redundancy threshold in the storage system.">
+  <meta property="og:url" content="http://dpertin.github.io/publication/usenix2018cherrueau/">
+  <meta property="og:title" content="Edge Computing Resource Management System: a Critical Building Block! Initiating the debate via OpenStack | Dimitri Pertin">
+  <meta property="og:description" content="While it is clear that edge infrastructures are required for emerging use-cases related to IoT, VR or NFV, there is currently no resource management system able to deliver all features for the edge that made cloud computing successful (e.g., an OpenStack for the edge). Since building a system from scratch is seen by many as impractical, this paper provides reflections regarding how existing solutions can be leveraged. To that end, we provide a list of the features required to operate and use edge computing resources, and investigate how an existing IaaS manager (i.e., OpenStack) satisfies these requirements. Finally, we identify from this study two approaches to design an edge infrastructure manager that fulfils our requirements, and discuss their pros and cons.">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2016-04-22T00:00:00&#43;00:00">
+  <meta property="article:published_time" content="2018-07-10T00:00:00&#43;00:00">
   
-  <meta property="article:modified_time" content="2016-04-22T00:00:00&#43;00:00">
-  
-
+  <meta property="article:modified_time" content="2018-07-10T00:00:00&#43;00:00">
   
 
-  <title>Mojette Erasure Code for Distributed Storage | Dimitri Pertin</title>
+  
+
+  <title>Edge Computing Resource Management System: a Critical Building Block! Initiating the debate via OpenStack | Dimitri Pertin</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
@@ -204,10 +204,10 @@
 
 
   <div class="article-container">
-    <h1 itemprop="name">Mojette Erasure Code for Distributed Storage</h1>
+    <h1 itemprop="name">Edge Computing Resource Management System: a Critical Building Block! Initiating the debate via OpenStack</h1>
     <span class="pub-authors" itemprop="author">
       
-      Dimitri Pertin
+      Ronan-Alexandre Cherrueau, Adrien Lebre, Dimitri Pertin, Fetahi Wuhib, João Soares
       
     </span>
     <span class="pull-right">
@@ -216,35 +216,35 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Mojette%20Erasure%20Code%20for%20Distributed%20Storage&amp;url=http%3a%2f%2fdpertin.github.io%2fpublication%2fphd2016pertin%2f"
+         href="https://twitter.com/intent/tweet?text=Edge%20Computing%20Resource%20Management%20System%3a%20a%20Critical%20Building%20Block%21%20Initiating%20the%20debate%20via%20OpenStack&amp;url=http%3a%2f%2fdpertin.github.io%2fpublication%2fusenix2018cherrueau%2f"
          target="_blank" rel="noopener">
         <i class="fa fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=http%3a%2f%2fdpertin.github.io%2fpublication%2fphd2016pertin%2f"
+         href="https://www.facebook.com/sharer.php?u=http%3a%2f%2fdpertin.github.io%2fpublication%2fusenix2018cherrueau%2f"
          target="_blank" rel="noopener">
         <i class="fa fa-facebook"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3a%2f%2fdpertin.github.io%2fpublication%2fphd2016pertin%2f&amp;title=Mojette%20Erasure%20Code%20for%20Distributed%20Storage"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3a%2f%2fdpertin.github.io%2fpublication%2fusenix2018cherrueau%2f&amp;title=Edge%20Computing%20Resource%20Management%20System%3a%20a%20Critical%20Building%20Block%21%20Initiating%20the%20debate%20via%20OpenStack"
          target="_blank" rel="noopener">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=http%3a%2f%2fdpertin.github.io%2fpublication%2fphd2016pertin%2f&amp;title=Mojette%20Erasure%20Code%20for%20Distributed%20Storage"
+         href="http://service.weibo.com/share/share.php?url=http%3a%2f%2fdpertin.github.io%2fpublication%2fusenix2018cherrueau%2f&amp;title=Edge%20Computing%20Resource%20Management%20System%3a%20a%20Critical%20Building%20Block%21%20Initiating%20the%20debate%20via%20OpenStack"
          target="_blank" rel="noopener">
         <i class="fa fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Mojette%20Erasure%20Code%20for%20Distributed%20Storage&amp;body=http%3a%2f%2fdpertin.github.io%2fpublication%2fphd2016pertin%2f">
+         href="mailto:?subject=Edge%20Computing%20Resource%20Management%20System%3a%20a%20Critical%20Building%20Block%21%20Initiating%20the%20debate%20via%20OpenStack&amp;body=http%3a%2f%2fdpertin.github.io%2fpublication%2fusenix2018cherrueau%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -258,7 +258,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">Erasure codes can generate data redundancy in distributed storage systems. This redundancy can be used to recover missing data in case of a failure. Codes have the benefit of reducing the generated amount of redundancy drastically,compared to plain data replication. However, this reduction is combined with a significant computational complexity, which penalizes encoding and decoding performances, and limits the use of coding to cold data. In this thesis, we focus on the use of the Mojette transform as an effective erasure code, adapted to hot data. The resulting code requires more redundancy than classical codes though. The first contribution of this research work deals with the design of a systematic version of the Mojette erasure code. This version provides better performances while reducing the required amount of redundancy. The second contribution covers the integration of this solution in the distributed file system RozoFS. This integration enables the system to provide a continuous service despite failures, while being able to manage hot data with half the volume of data compared to replication-based systems. A third research focus addresses the design of a distributed method to compute extra Mojette codeword symbols. This method contributes to restore a redundancy threshold in the storage system.</p>
+    <p class="pub-abstract" itemprop="text">While it is clear that edge infrastructures are required for emerging use-cases related to IoT, VR or NFV, there is currently no resource management system able to deliver all features for the edge that made cloud computing successful (e.g., an OpenStack for the edge). Since building a system from scratch is seen by many as impractical, this paper provides reflections regarding how existing solutions can be leveraged. To that end, we provide a list of the features required to operate and use edge computing resources, and investigate how an existing IaaS manager (i.e., OpenStack) satisfies these requirements. Finally, we identify from this study two approaches to design an edge infrastructure manager that fulfils our requirements, and discuss their pros and cons.</p>
     
 
     
@@ -269,8 +269,8 @@
           <div class="col-xs-12 col-sm-3 pub-row-heading">Type</div>
           <div class="col-xs-12 col-sm-9">
             
-            <a href="/publication/#0">
-              Uncategorized
+            <a href="/publication/#1">
+              Conference paper
             </a>
             
           </div>
@@ -287,7 +287,7 @@
       <div class="col-sm-10">
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-          <div class="col-xs-12 col-sm-9">Ph.D (manuscript in french, slides in english)</div>
+          <div class="col-xs-12 col-sm-9">In proceedings of the USENIX Workshop on Hot Topics in Edge Computing 2018</div>
         </div>
       </div>
       <div class="col-sm-1"></div>
@@ -301,7 +301,7 @@
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
           <div class="col-xs-12 col-sm-9" itemprop="datePublished">
-            April, 2016
+            July, 2018
           </div>
         </div>
       </div>
@@ -321,12 +321,12 @@
 
 
 
-<a class="btn btn-primary btn-outline" href="https://hal.archives-ouvertes.fr/tel-01720038/document" target="_blank" rel="noopener">
+<a class="btn btn-primary btn-outline" href="https://hal.archives-ouvertes.fr/hal-01812747v1" target="_blank" rel="noopener">
   HAL
 </a>
 
 
-<a class="btn btn-primary btn-outline" href="https://hal.archives-ouvertes.fr/tel-01720038/document" target="_blank" rel="noopener">
+<a class="btn btn-primary btn-outline" href="https://hal.archives-ouvertes.fr/hal-01812747/document" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -334,23 +334,15 @@
 
 
 
-<a class="btn btn-primary btn-outline" href="https://github.com/denaitre/phd" target="_blank" rel="noopener">
-  Code
-</a>
 
 
 
-
-<a class="btn btn-primary btn-outline" href="/project/fec4cloud/">
+<a class="btn btn-primary btn-outline" href="/project/discovery/">
   Project
 </a>
 
 
 
-
-<a class="btn btn-primary btn-outline" href="https://hal.archives-ouvertes.fr/tel-01720038/file/these.pdf" target="_blank" rel="noopener">
-  Slides
-</a>
 
 
 

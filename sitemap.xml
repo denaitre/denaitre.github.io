@@ -1,5 +1,52 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    
+    <url>
+    
+      <loc>http://dpertin.github.io/publication_types/1/</loc>
+      <lastmod>2018-07-16T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://dpertin.github.io/</loc>
+      <lastmod>2018-07-16T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://dpertin.github.io/publication/4pad2018chardet/</loc>
+      <lastmod>2018-07-16T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://dpertin.github.io/publication_types/</loc>
+      <lastmod>2018-07-16T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://dpertin.github.io/publication/usenix2018cherrueau/</loc>
+      <lastmod>2018-07-10T00:00:00+00:00</lastmod>
+    </url>
+    
   
     
     
@@ -7,6 +54,36 @@
     
       <loc>http://dpertin.github.io/project/enos/</loc>
       <lastmod>2018-03-02T14:45:44+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://dpertin.github.io/project/</loc>
+      <lastmod>2018-03-02T14:45:44+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://dpertin.github.io/tags/</loc>
+      <lastmod>2018-03-02T14:45:44+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://dpertin.github.io/tags/iaas/</loc>
+      <lastmod>2018-03-02T14:45:44+01:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -25,6 +102,16 @@
     
       <loc>http://dpertin.github.io/posts/my-first-post/</loc>
       <lastmod>2018-02-28T22:43:52+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://dpertin.github.io/posts/</loc>
+      <lastmod>2018-02-28T22:43:52+01:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -95,6 +182,16 @@
     
     <url>
     
+      <loc>http://dpertin.github.io/publication_types/0/</loc>
+      <lastmod>2016-04-22T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://dpertin.github.io/publication/phd2016pertin/</loc>
       <lastmod>2016-04-22T00:00:00+00:00</lastmod>
     </url>
@@ -133,6 +230,16 @@
     
       <loc>http://dpertin.github.io/project/rozobox/</loc>
       <lastmod>2014-06-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://dpertin.github.io/tags/erasure_code/</loc>
+      <lastmod>2014-06-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -185,97 +292,7 @@
     
     <url>
     
-      <loc>http://dpertin.github.io/publication_types/0/</loc>
-      <lastmod>2016-04-22T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://dpertin.github.io/publication_types/1/</loc>
-      <lastmod>2017-08-21T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>http://dpertin.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://dpertin.github.io/</loc>
-      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://dpertin.github.io/tags/erasure_code/</loc>
-      <lastmod>2014-06-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://dpertin.github.io/tags/iaas/</loc>
-      <lastmod>2018-03-02T14:45:44+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://dpertin.github.io/posts/</loc>
-      <lastmod>2018-02-28T22:43:52+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://dpertin.github.io/project/</loc>
-      <lastmod>2018-03-02T14:45:44+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://dpertin.github.io/publication_types/</loc>
-      <lastmod>2016-04-22T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://dpertin.github.io/tags/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
