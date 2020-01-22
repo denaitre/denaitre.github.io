@@ -1,41 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Dimitri Pertin</title>
-    <link>http://dpertin.github.io/tags/</link>
-    <description>Recent content in Tags on Dimitri Pertin</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 02 Mar 2018 14:45:44 +0100</lastBuildDate>
-    
-	<atom:link href="http://dpertin.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Tags | Dimitri Pertin</title>
+    <link>https://dpertin.github.io/tags/</link>
+      <atom:link href="https://dpertin.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 02 Mar 2018 14:45:44 +0100</lastBuildDate>
+    <image>
+      <url>https://dpertin.github.io/img/dim.jpg</url>
+      <title>Tags</title>
+      <link>https://dpertin.github.io/tags/</link>
+    </image>
     
     <item>
       <title>iaas</title>
-      <link>http://dpertin.github.io/tags/iaas/</link>
+      <link>https://dpertin.github.io/tags/iaas/</link>
       <pubDate>Fri, 02 Mar 2018 14:45:44 +0100</pubDate>
-      
-      <guid>http://dpertin.github.io/tags/iaas/</guid>
+      <guid>https://dpertin.github.io/tags/iaas/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Content tagged as &#39;Academic&#39;</title>
-      <link>http://dpertin.github.io/tags/academic/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://dpertin.github.io/tags/academic/</guid>
-      <description>Here is a list of all the content that has been tagged as academic.</description>
-    </item>
-    
-    <item>
       <title>erasure_code</title>
-      <link>http://dpertin.github.io/tags/erasure_code/</link>
+      <link>https://dpertin.github.io/tags/erasure_code/</link>
       <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://dpertin.github.io/tags/erasure_code/</guid>
+      <guid>https://dpertin.github.io/tags/erasure_code/</guid>
       <description></description>
     </item>
     

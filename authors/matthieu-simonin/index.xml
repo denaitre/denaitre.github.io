@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matthieu Simonin | Dimitri Pertin</title>
+    <link>https://dpertin.github.io/authors/matthieu-simonin/</link>
+      <atom:link href="https://dpertin.github.io/authors/matthieu-simonin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Matthieu Simonin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 14 May 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dpertin.github.io/img/dim.jpg</url>
+      <title>Matthieu Simonin</title>
+      <link>https://dpertin.github.io/authors/matthieu-simonin/</link>
+    </image>
+    
+    <item>
+      <title>Toward a Holistic Framework for Conducting Scientific Evaluations of OpenStack</title>
+      <link>https://dpertin.github.io/publication/ccgrid2017cherrueau/</link>
+      <pubDate>Sun, 14 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://dpertin.github.io/publication/ccgrid2017cherrueau/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

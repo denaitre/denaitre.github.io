@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Giulio D&#39;Ippolito | Dimitri Pertin</title>
+    <link>https://dpertin.github.io/authors/giulio-dippolito/</link>
+      <atom:link href="https://dpertin.github.io/authors/giulio-dippolito/index.xml" rel="self" type="application/rss+xml" />
+    <description>Giulio D&#39;Ippolito</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 04 Jul 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dpertin.github.io/img/dim.jpg</url>
+      <title>Giulio D&#39;Ippolito</title>
+      <link>https://dpertin.github.io/authors/giulio-dippolito/</link>
+    </image>
+    
+    <item>
+      <title>Spatial Implementation for Erasure Coding by Finite Radon Transform</title>
+      <link>https://dpertin.github.io/publication/isivc2012pertin/</link>
+      <pubDate>Wed, 04 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>https://dpertin.github.io/publication/isivc2012pertin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

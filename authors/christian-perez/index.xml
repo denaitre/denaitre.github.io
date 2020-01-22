@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christian Pérez | Dimitri Pertin</title>
+    <link>https://dpertin.github.io/authors/christian-perez/</link>
+      <atom:link href="https://dpertin.github.io/authors/christian-perez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christian Pérez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dpertin.github.io/img/dim.jpg</url>
+      <title>Christian Pérez</title>
+      <link>https://dpertin.github.io/authors/christian-perez/</link>
+    </image>
+    
+    <item>
+      <title>Production Deployment Tools for IaaSes: an Overall Model and Survey</title>
+      <link>https://dpertin.github.io/publication/ficloud2017coullon/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://dpertin.github.io/publication/ficloud2017coullon/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

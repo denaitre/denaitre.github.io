@@ -1,42 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>erasure_code on Dimitri Pertin</title>
-    <link>http://dpertin.github.io/tags/erasure_code/</link>
-    <description>Recent content in erasure_code on Dimitri Pertin</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jun 2014 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://dpertin.github.io/tags/erasure_code/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>erasure_code | Dimitri Pertin</title>
+    <link>https://dpertin.github.io/tags/erasure_code/</link>
+      <atom:link href="https://dpertin.github.io/tags/erasure_code/index.xml" rel="self" type="application/rss+xml" />
+    <description>erasure_code</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jun 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dpertin.github.io/img/dim.jpg</url>
+      <title>erasure_code</title>
+      <link>https://dpertin.github.io/tags/erasure_code/</link>
+    </image>
     
     <item>
       <title>Rozobox</title>
-      <link>http://dpertin.github.io/project/rozobox/</link>
+      <link>https://dpertin.github.io/project/rozobox/</link>
       <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://dpertin.github.io/project/rozobox/</guid>
-      <description>The RozoBox is a cluster of 8 Raspberry Pis used to experiment, teach and popularize distributed storage. It was part of a project driven by two students from Polytech Nantes: Olivier Blin and Quentin Lebourgeois, and supervised by Nicolas Normand, and myself.</description>
+      <guid>https://dpertin.github.io/project/rozobox/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>FEC4Cloud: Forward Error Correcting codes for Cloud storage architectures</title>
-      <link>http://dpertin.github.io/project/fec4cloud/</link>
+      <link>https://dpertin.github.io/project/fec4cloud/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://dpertin.github.io/project/fec4cloud/</guid>
-      <description>FEC4Cloud is an ANR project that aims at promoting erasure codes in fault-tolerant Cloud storage architectures, by investigating algebraic soutions (e.g. Reed-Solomon codes) and codes based on discrete geometry (e.g. Mojette codes).</description>
+      <guid>https://dpertin.github.io/project/fec4cloud/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>RozoFS</title>
-      <link>http://dpertin.github.io/project/rozofs/</link>
+      <link>https://dpertin.github.io/project/rozofs/</link>
       <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://dpertin.github.io/project/rozofs/</guid>
-      <description>RozoFS is a scale-out distributed file system focused on fault-tolerance, low-cost and high-performance. To that end, it relies on the Mojette erasure coding. I have mainly contributed on its coding implementation.</description>
+      <guid>https://dpertin.github.io/project/rozofs/</guid>
+      <description></description>
     </item>
     
   </channel>

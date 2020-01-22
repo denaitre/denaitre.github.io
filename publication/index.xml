@@ -1,104 +1,86 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Dimitri Pertin</title>
-    <link>http://dpertin.github.io/publication/</link>
-    <description>Recent content in Publications on Dimitri Pertin</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://dpertin.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Madeus: A formal deployment model</title>
-      <link>http://dpertin.github.io/publication/4pad2018chardet/</link>
-      <pubDate>Mon, 16 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://dpertin.github.io/publication/4pad2018chardet/</guid>
-      <description></description>
-    </item>
+    <title>Publications | Dimitri Pertin</title>
+    <link>https://dpertin.github.io/publication/</link>
+      <atom:link href="https://dpertin.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dpertin.github.io/img/dim.jpg</url>
+      <title>Publications</title>
+      <link>https://dpertin.github.io/publication/</link>
+    </image>
     
     <item>
       <title>Edge Computing Resource Management System: a Critical Building Block! Initiating the debate via OpenStack</title>
-      <link>http://dpertin.github.io/publication/usenix2018cherrueau/</link>
-      <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://dpertin.github.io/publication/usenix2018cherrueau/</guid>
+      <link>https://dpertin.github.io/publication/hotedge2018cherrueau/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://dpertin.github.io/publication/hotedge2018cherrueau/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Production Deployment Tools for IaaSes: an Overall Model and Survey</title>
-      <link>http://dpertin.github.io/publication/ficloud2017coullon/</link>
+      <link>https://dpertin.github.io/publication/ficloud2017coullon/</link>
       <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://dpertin.github.io/publication/ficloud2017coullon/</guid>
+      <guid>https://dpertin.github.io/publication/ficloud2017coullon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Toward a Holistic Framework for Conducting Scientific Evaluations of OpenStack</title>
-      <link>http://dpertin.github.io/publication/ccgrid2017cherrueau/</link>
+      <link>https://dpertin.github.io/publication/ccgrid2017cherrueau/</link>
       <pubDate>Sun, 14 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://dpertin.github.io/publication/ccgrid2017cherrueau/</guid>
+      <guid>https://dpertin.github.io/publication/ccgrid2017cherrueau/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mojette Erasure Code for Distributed Storage</title>
-      <link>http://dpertin.github.io/publication/phd2016pertin/</link>
+      <link>https://dpertin.github.io/publication/phd2016pertin/</link>
       <pubDate>Fri, 22 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://dpertin.github.io/publication/phd2016pertin/</guid>
+      <guid>https://dpertin.github.io/publication/phd2016pertin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Comparison of RAID-6 Erasure Codes</title>
-      <link>http://dpertin.github.io/publication/sifwict2015pertin/</link>
+      <link>https://dpertin.github.io/publication/sifwict2015pertin/</link>
       <pubDate>Fri, 12 Jun 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://dpertin.github.io/publication/sifwict2015pertin/</guid>
+      <guid>https://dpertin.github.io/publication/sifwict2015pertin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Re-projection without Reconstruction</title>
-      <link>http://dpertin.github.io/publication/ri2014pertin/</link>
+      <link>https://dpertin.github.io/publication/ri2014pertin/</link>
       <pubDate>Tue, 25 Nov 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://dpertin.github.io/publication/ri2014pertin/</guid>
+      <guid>https://dpertin.github.io/publication/ri2014pertin/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The Mojette Erasure Code for Distributed File Systems</title>
-      <link>http://dpertin.github.io/publication/eurosys2014pertin/</link>
+      <title>Distributed File System Based on Erasure Coding for I/O-Intensive Applications</title>
+      <link>https://dpertin.github.io/publication/eurosys2014pertin/</link>
       <pubDate>Sun, 13 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://dpertin.github.io/publication/eurosys2014pertin/</guid>
+      <guid>https://dpertin.github.io/publication/eurosys2014pertin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Distributed File System Based on Erasure Coding for I/O-Intensive Applications</title>
-      <link>http://dpertin.github.io/publication/closer2014pertin/</link>
+      <link>https://dpertin.github.io/publication/closer2014pertin/</link>
       <pubDate>Thu, 03 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://dpertin.github.io/publication/closer2014pertin/</guid>
+      <guid>https://dpertin.github.io/publication/closer2014pertin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spatial Implementation for Erasure Coding by Finite Radon Transform</title>
-      <link>http://dpertin.github.io/publication/isivc2012pertin/</link>
+      <link>https://dpertin.github.io/publication/isivc2012pertin/</link>
       <pubDate>Wed, 04 Jul 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://dpertin.github.io/publication/isivc2012pertin/</guid>
+      <guid>https://dpertin.github.io/publication/isivc2012pertin/</guid>
       <description></description>
     </item>
     

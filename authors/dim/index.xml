@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dimitri Pertin</title>
+    <link>https://dpertin.github.io/authors/dim/</link>
+      <atom:link href="https://dpertin.github.io/authors/dim/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dimitri Pertin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://dpertin.github.io/img/dim.jpg</url>
+      <title>Dimitri Pertin</title>
+      <link>https://dpertin.github.io/authors/dim/</link>
+    </image>
+    
+  </channel>
+</rss>

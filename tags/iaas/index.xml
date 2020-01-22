@@ -1,33 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>iaas on Dimitri Pertin</title>
-    <link>http://dpertin.github.io/tags/iaas/</link>
-    <description>Recent content in iaas on Dimitri Pertin</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 02 Mar 2018 14:45:44 +0100</lastBuildDate>
-    
-	<atom:link href="http://dpertin.github.io/tags/iaas/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>iaas | Dimitri Pertin</title>
+    <link>https://dpertin.github.io/tags/iaas/</link>
+      <atom:link href="https://dpertin.github.io/tags/iaas/index.xml" rel="self" type="application/rss+xml" />
+    <description>iaas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 02 Mar 2018 14:45:44 +0100</lastBuildDate>
+    <image>
+      <url>https://dpertin.github.io/img/dim.jpg</url>
+      <title>iaas</title>
+      <link>https://dpertin.github.io/tags/iaas/</link>
+    </image>
     
     <item>
       <title>EnOS: Experimental eNvironment for OpenStack</title>
-      <link>http://dpertin.github.io/project/enos/</link>
+      <link>https://dpertin.github.io/project/enos/</link>
       <pubDate>Fri, 02 Mar 2018 14:45:44 +0100</pubDate>
-      
-      <guid>http://dpertin.github.io/project/enos/</guid>
-      <description>EnOS is an open-source framework to easily deploy, benchmark and analyze different customized instances of OpenStack, on multiple testbeds, with &lt;em&gt;Experimentation-as-Code&lt;/em&gt; and automation in mind.</description>
+      <guid>https://dpertin.github.io/project/enos/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Discovery: Beyond the Clouds</title>
-      <link>http://dpertin.github.io/project/discovery/</link>
+      <link>https://dpertin.github.io/project/discovery/</link>
       <pubDate>Fri, 02 Mar 2018 14:41:15 +0100</pubDate>
-      
-      <guid>http://dpertin.github.io/project/discovery/</guid>
-      <description>Discovery aims at implementing a fully decentralized IaaS manager to overcome the main limitations of the traditional server-centric cloud solutions regarding Fog/Edge infrastructures. To that end, it revises the OpenStack software in order to make it inherently cooperative. I am involved in its &amp;lsquo;OpenStack deployment and reconfiguration&amp;rsquo; working group.</description>
+      <guid>https://dpertin.github.io/project/discovery/</guid>
+      <description></description>
     </item>
     
   </channel>
