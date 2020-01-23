@@ -5,7 +5,7 @@
     <link>https://dpertin.github.io/authors/</link>
       <atom:link href="https://dpertin.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 16 Jul 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dpertin.github.io/img/dim.jpg</url>
       <title>Authors</title>
@@ -13,18 +13,42 @@
     </image>
     
     <item>
-      <title>Adrien Lebre</title>
-      <link>https://dpertin.github.io/authors/adrien-lebre/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://dpertin.github.io/authors/adrien-lebre/</guid>
+      <title>Christian Perez</title>
+      <link>https://dpertin.github.io/authors/christian-perez/</link>
+      <pubDate>Mon, 16 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://dpertin.github.io/authors/christian-perez/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dimitri Pertin</title>
       <link>https://dpertin.github.io/authors/dimitri-pertin/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 16 Jul 2018 00:00:00 +0000</pubDate>
       <guid>https://dpertin.github.io/authors/dimitri-pertin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Helene Coullon</title>
+      <link>https://dpertin.github.io/authors/helene-coullon/</link>
+      <pubDate>Mon, 16 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://dpertin.github.io/authors/helene-coullon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maverick Chardet</title>
+      <link>https://dpertin.github.io/authors/maverick-chardet/</link>
+      <pubDate>Mon, 16 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://dpertin.github.io/authors/maverick-chardet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adrien Lebre</title>
+      <link>https://dpertin.github.io/authors/adrien-lebre/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://dpertin.github.io/authors/adrien-lebre/</guid>
       <description></description>
     </item>
     
@@ -53,25 +77,9 @@
     </item>
     
     <item>
-      <title>Christian Pérez</title>
-      <link>https://dpertin.github.io/authors/christian-perez/</link>
-      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>https://dpertin.github.io/authors/christian-perez/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hélène Coullon</title>
-      <link>https://dpertin.github.io/authors/helene-coullon/</link>
-      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>https://dpertin.github.io/authors/helene-coullon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Anthony Simonet</title>
       <link>https://dpertin.github.io/authors/anthony-simonet/</link>
-      <pubDate>Sun, 14 May 2017 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 02 Mar 2018 14:45:44 +0100</pubDate>
       <guid>https://dpertin.github.io/authors/anthony-simonet/</guid>
       <description></description>
     </item>
@@ -79,13 +87,29 @@
     <item>
       <title>Matthieu Simonin</title>
       <link>https://dpertin.github.io/authors/matthieu-simonin/</link>
-      <pubDate>Sun, 14 May 2017 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 02 Mar 2018 14:45:44 +0100</pubDate>
       <guid>https://dpertin.github.io/authors/matthieu-simonin/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Alexandre Van Kempen</title>
+      <title>Javier Rojas Balderrama</title>
+      <link>https://dpertin.github.io/authors/javier-rojas-balderrama/</link>
+      <pubDate>Fri, 02 Mar 2018 14:41:15 +0100</pubDate>
+      <guid>https://dpertin.github.io/authors/javier-rojas-balderrama/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jonathan Pastor</title>
+      <link>https://dpertin.github.io/authors/jonathan-pastor/</link>
+      <pubDate>Fri, 02 Mar 2018 14:41:15 +0100</pubDate>
+      <guid>https://dpertin.github.io/authors/jonathan-pastor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alexandre van Kempen</title>
       <link>https://dpertin.github.io/authors/alexandre-van-kempen/</link>
       <pubDate>Fri, 12 Jun 2015 00:00:00 +0000</pubDate>
       <guid>https://dpertin.github.io/authors/alexandre-van-kempen/</guid>
@@ -93,7 +117,7 @@
     </item>
     
     <item>
-      <title>Benoît Parrein</title>
+      <title>Benoit Parrein</title>
       <link>https://dpertin.github.io/authors/benoit-parrein/</link>
       <pubDate>Fri, 12 Jun 2015 00:00:00 +0000</pubDate>
       <guid>https://dpertin.github.io/authors/benoit-parrein/</guid>
@@ -105,6 +129,22 @@
       <link>https://dpertin.github.io/authors/nicolas-normand/</link>
       <pubDate>Fri, 12 Jun 2015 00:00:00 +0000</pubDate>
       <guid>https://dpertin.github.io/authors/nicolas-normand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Olivier Blin</title>
+      <link>https://dpertin.github.io/authors/olivier-blin/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://dpertin.github.io/authors/olivier-blin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quentin Lebourgeois</title>
+      <link>https://dpertin.github.io/authors/quentin-lebourgeois/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://dpertin.github.io/authors/quentin-lebourgeois/</guid>
       <description></description>
     </item>
     
@@ -125,10 +165,42 @@
     </item>
     
     <item>
+      <title>Jerome Lacan</title>
+      <link>https://dpertin.github.io/authors/jerome-lacan/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://dpertin.github.io/authors/jerome-lacan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jonathan Detchart</title>
+      <link>https://dpertin.github.io/authors/jonathan-detchart/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://dpertin.github.io/authors/jonathan-detchart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Giulio D&#39;Ippolito</title>
       <link>https://dpertin.github.io/authors/giulio-dippolito/</link>
       <pubDate>Wed, 04 Jul 2012 00:00:00 +0000</pubDate>
       <guid>https://dpertin.github.io/authors/giulio-dippolito/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Didier Feron</title>
+      <link>https://dpertin.github.io/authors/didier-feron/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>https://dpertin.github.io/authors/didier-feron/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jean-Pierre Monchanin</title>
+      <link>https://dpertin.github.io/authors/jean-pierre-monchanin/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>https://dpertin.github.io/authors/jean-pierre-monchanin/</guid>
       <description></description>
     </item>
     

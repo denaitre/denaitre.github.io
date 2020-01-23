@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>iaas | Dimitri Pertin</title>
+    <title>IaaS | Dimitri Pertin</title>
     <link>https://dpertin.github.io/tags/iaas/</link>
       <atom:link href="https://dpertin.github.io/tags/iaas/index.xml" rel="self" type="application/rss+xml" />
-    <description>iaas</description>
+    <description>IaaS</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 02 Mar 2018 14:45:44 +0100</lastBuildDate>
     <image>
       <url>https://dpertin.github.io/img/dim.jpg</url>
-      <title>iaas</title>
+      <title>IaaS</title>
       <link>https://dpertin.github.io/tags/iaas/</link>
     </image>
     
@@ -17,7 +17,11 @@
       <link>https://dpertin.github.io/project/enos/</link>
       <pubDate>Fri, 02 Mar 2018 14:45:44 +0100</pubDate>
       <guid>https://dpertin.github.io/project/enos/</guid>
-      <description></description>
+      <description>&lt;p&gt;EnOS is an open-source framework to easily deploy, benchmark and
+analyze different customized instances of OpenStack on multiple testbeds
+(e.g. Grid5000, Vagrant, OpenStack). It is built with &lt;em&gt;Experimentation-as-Code&lt;/em&gt;
+and automation in mind.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -25,7 +29,15 @@
       <link>https://dpertin.github.io/project/discovery/</link>
       <pubDate>Fri, 02 Mar 2018 14:41:15 +0100</pubDate>
       <guid>https://dpertin.github.io/project/discovery/</guid>
-      <description></description>
+      <description>&lt;p&gt;Discovery aims at implementing a fully decentralized IaaS manager to
+overcome the main limitations of the traditional server-centric cloud solutions
+regarding Fog/Edge infrastructures. To that end, it revises the OpenStack
+software in order to make it inherently cooperative. I was involved in its
+&lt;em&gt;
+&lt;a href=&#34;https://wiki.openstack.org/wiki/Fog_Edge_Massively_Distributed_Clouds&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fog/Edge/Massively Distributed Clouds&lt;/a&gt;
+
+(FEMDC)&lt;/em&gt; working group.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

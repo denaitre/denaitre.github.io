@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jean-Pierre Monchanin | Dimitri Pertin</title>
+    <link>https://dpertin.github.io/authors/jean-pierre-monchanin/</link>
+      <atom:link href="https://dpertin.github.io/authors/jean-pierre-monchanin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jean-Pierre Monchanin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jul 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dpertin.github.io/img/dim.jpg</url>
+      <title>Jean-Pierre Monchanin</title>
+      <link>https://dpertin.github.io/authors/jean-pierre-monchanin/</link>
+    </image>
+    
+    <item>
+      <title>RozoFS</title>
+      <link>https://dpertin.github.io/project/rozofs/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>https://dpertin.github.io/project/rozofs/</guid>
+      <description>&lt;p&gt;RozoFS is a scale-out distributed file system focused on fault-tolerance,
+low-cost and high-performance. To that end, it relies on the Mojette erasure
+coding. I have mainly contributed on its coding implementation.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

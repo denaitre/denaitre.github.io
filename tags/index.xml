@@ -13,7 +13,15 @@
     </image>
     
     <item>
-      <title>iaas</title>
+      <title>Automation</title>
+      <link>https://dpertin.github.io/tags/automation/</link>
+      <pubDate>Fri, 02 Mar 2018 14:45:44 +0100</pubDate>
+      <guid>https://dpertin.github.io/tags/automation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IaaS</title>
       <link>https://dpertin.github.io/tags/iaas/</link>
       <pubDate>Fri, 02 Mar 2018 14:45:44 +0100</pubDate>
       <guid>https://dpertin.github.io/tags/iaas/</guid>
@@ -21,10 +29,58 @@
     </item>
     
     <item>
-      <title>erasure_code</title>
-      <link>https://dpertin.github.io/tags/erasure_code/</link>
+      <title>OpenStack</title>
+      <link>https://dpertin.github.io/tags/openstack/</link>
+      <pubDate>Fri, 02 Mar 2018 14:45:44 +0100</pubDate>
+      <guid>https://dpertin.github.io/tags/openstack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance</title>
+      <link>https://dpertin.github.io/tags/performance/</link>
+      <pubDate>Fri, 02 Mar 2018 14:45:44 +0100</pubDate>
+      <guid>https://dpertin.github.io/tags/performance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Erasure code</title>
+      <link>https://dpertin.github.io/tags/erasure-code/</link>
       <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
-      <guid>https://dpertin.github.io/tags/erasure_code/</guid>
+      <guid>https://dpertin.github.io/tags/erasure-code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mojette</title>
+      <link>https://dpertin.github.io/tags/mojette/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://dpertin.github.io/tags/mojette/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polytech</title>
+      <link>https://dpertin.github.io/tags/polytech/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://dpertin.github.io/tags/polytech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Université de Nantes</title>
+      <link>https://dpertin.github.io/tags/universite-de-nantes/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://dpertin.github.io/tags/universite-de-nantes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reed Solomon</title>
+      <link>https://dpertin.github.io/tags/reed-solomon/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://dpertin.github.io/tags/reed-solomon/</guid>
       <description></description>
     </item>
     

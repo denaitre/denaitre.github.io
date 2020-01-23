@@ -5,12 +5,20 @@
     <link>https://dpertin.github.io/</link>
       <atom:link href="https://dpertin.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Dimitri Pertin</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 16 Jul 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dpertin.github.io/img/dim.jpg</url>
       <title>Dimitri Pertin</title>
       <link>https://dpertin.github.io/</link>
     </image>
+    
+    <item>
+      <title>Madeus: a Formal Deployment Model</title>
+      <link>https://dpertin.github.io/publication/hpcs2018chardet/</link>
+      <pubDate>Mon, 16 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://dpertin.github.io/publication/hpcs2018chardet/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Edge Computing Resource Management System: a Critical Building Block! Initiating the debate via OpenStack</title>
@@ -21,11 +29,27 @@
     </item>
     
     <item>
+      <title>Madeus Application Deployer (MAD)</title>
+      <link>https://dpertin.github.io/project/madeus/</link>
+      <pubDate>Fri, 02 Mar 2018 15:06:14 +0100</pubDate>
+      <guid>https://dpertin.github.io/project/madeus/</guid>
+      <description>&lt;p&gt;MAD is a Python implementation of the Madeus model. Its purpose is to offer a
+way to define a low-level deployment process and coordinate this deployment in
+an efficient and reliable manner. MAD is low-level but offers a highly generic
+deployment model.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>EnOS: Experimental eNvironment for OpenStack</title>
       <link>https://dpertin.github.io/project/enos/</link>
       <pubDate>Fri, 02 Mar 2018 14:45:44 +0100</pubDate>
       <guid>https://dpertin.github.io/project/enos/</guid>
-      <description></description>
+      <description>&lt;p&gt;EnOS is an open-source framework to easily deploy, benchmark and
+analyze different customized instances of OpenStack on multiple testbeds
+(e.g. Grid5000, Vagrant, OpenStack). It is built with &lt;em&gt;Experimentation-as-Code&lt;/em&gt;
+and automation in mind.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -33,7 +57,15 @@
       <link>https://dpertin.github.io/project/discovery/</link>
       <pubDate>Fri, 02 Mar 2018 14:41:15 +0100</pubDate>
       <guid>https://dpertin.github.io/project/discovery/</guid>
-      <description></description>
+      <description>&lt;p&gt;Discovery aims at implementing a fully decentralized IaaS manager to
+overcome the main limitations of the traditional server-centric cloud solutions
+regarding Fog/Edge infrastructures. To that end, it revises the OpenStack
+software in order to make it inherently cooperative. I was involved in its
+&lt;em&gt;
+&lt;a href=&#34;https://wiki.openstack.org/wiki/Fog_Edge_Massively_Distributed_Clouds&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fog/Edge/Massively Distributed Clouds&lt;/a&gt;
+
+(FEMDC)&lt;/em&gt; working group.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -77,11 +109,40 @@
     </item>
     
     <item>
-      <title>Rozobox</title>
+      <title>Rozobox: resilient distributed storage on 8 RPis</title>
       <link>https://dpertin.github.io/project/rozobox/</link>
       <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
       <guid>https://dpertin.github.io/project/rozobox/</guid>
-      <description></description>
+      <description>&lt;p&gt;RozoBox is a cluster of 8 Raspberry Pis (RPis) used to experiment, teach and
+popularize distributed storage. It was part of a project driven by two students
+from Polytech Nantes: Olivier Blin and Quentin Lebourgeois, and supervised by
+Nicolas Normand, and myself.&lt;/p&gt;
+&lt;p&gt;RozoFS was deployed on the RPis and leveraged their 8 SD cards to provide a
+single storage volume that one can mount through the network.&lt;/p&gt;
+&lt;p&gt;To be fault-tolerant, RozoFS distributes redundant data across multiple servers.
+To that end, when a movie is stored on RozoFS, it is split into multiple data
+blocks. Each block is itself cut into data chunks, and some redundant chunks are
+computed from them. For instance, to provide fault-tolerance against two
+failures (like RAID-6), RozoFS computes two redundant chunks from four data
+chunks (and we get 4+2 chunks). Then, each chunk is spread on different servers.
+For reading, it is necessary to reach any subset of four chunks among the six
+that were distributed during the write process.&lt;/p&gt;
+&lt;p&gt;To make things clearer, the students have developed a monitoring tool based on
+&lt;em&gt;ncurses&lt;/em&gt; which displayed the 8 RPis and enables give a quick statement of each
+card regarding CPU/RAM/disk/network metrics and according to colors:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;green: available (through the network) and idle;&lt;/li&gt;
+&lt;li&gt;yellow: available and working (read/write activity);&lt;/li&gt;
+&lt;li&gt;red: unavailable.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Thus, the demo was the following. I mounted the RozoFS volume from my computer
+after plugging it to the network switch. Then I played a video stored on RozoFS
+and the monitoring tool showed that 4 cards turned from green to yellow, meaning
+they were implied in the video playing. Then I caused a failure by disconnecting
+one of those implied card from the network. The video continued to be played
+while the monitoring tool showed one reading card turning red, and another one
+turning from green to yellow, meaning a first set of redundant chunks are used.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -101,11 +162,15 @@
     </item>
     
     <item>
-      <title>FEC4Cloud: Forward Error Correcting codes for Cloud storage architectures</title>
+      <title>FEC4Cloud: error correcting codes for cloud storage</title>
       <link>https://dpertin.github.io/project/fec4cloud/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://dpertin.github.io/project/fec4cloud/</guid>
-      <description></description>
+      <description>&lt;p&gt;FEC4Cloud is an ANR project that aims at promoting erasure codes in
+fault-tolerant Cloud storage architectures, by investigating algebraic soutions
+(e.g. Reed-Solomon codes) and codes based on discrete geometry (e.g. Mojette
+codes).&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -121,7 +186,10 @@
       <link>https://dpertin.github.io/project/rozofs/</link>
       <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
       <guid>https://dpertin.github.io/project/rozofs/</guid>
-      <description></description>
+      <description>&lt;p&gt;RozoFS is a scale-out distributed file system focused on fault-tolerance,
+low-cost and high-performance. To that end, it relies on the Mojette erasure
+coding. I have mainly contributed on its coding implementation.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

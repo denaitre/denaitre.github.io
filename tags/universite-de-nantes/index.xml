@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Université de Nantes | Dimitri Pertin</title>
+    <link>https://dpertin.github.io/tags/universite-de-nantes/</link>
+      <atom:link href="https://dpertin.github.io/tags/universite-de-nantes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Université de Nantes</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jun 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dpertin.github.io/img/dim.jpg</url>
+      <title>Université de Nantes</title>
+      <link>https://dpertin.github.io/tags/universite-de-nantes/</link>
+    </image>
+    
+    <item>
+      <title>Rozobox: resilient distributed storage on 8 RPis</title>
+      <link>https://dpertin.github.io/project/rozobox/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://dpertin.github.io/project/rozobox/</guid>
+      <description>&lt;p&gt;RozoBox is a cluster of 8 Raspberry Pis (RPis) used to experiment, teach and
+popularize distributed storage. It was part of a project driven by two students
+from Polytech Nantes: Olivier Blin and Quentin Lebourgeois, and supervised by
+Nicolas Normand, and myself.&lt;/p&gt;
+&lt;p&gt;RozoFS was deployed on the RPis and leveraged their 8 SD cards to provide a
+single storage volume that one can mount through the network.&lt;/p&gt;
+&lt;p&gt;To be fault-tolerant, RozoFS distributes redundant data across multiple servers.
+To that end, when a movie is stored on RozoFS, it is split into multiple data
+blocks. Each block is itself cut into data chunks, and some redundant chunks are
+computed from them. For instance, to provide fault-tolerance against two
+failures (like RAID-6), RozoFS computes two redundant chunks from four data
+chunks (and we get 4+2 chunks). Then, each chunk is spread on different servers.
+For reading, it is necessary to reach any subset of four chunks among the six
+that were distributed during the write process.&lt;/p&gt;
+&lt;p&gt;To make things clearer, the students have developed a monitoring tool based on
+&lt;em&gt;ncurses&lt;/em&gt; which displayed the 8 RPis and enables give a quick statement of each
+card regarding CPU/RAM/disk/network metrics and according to colors:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;green: available (through the network) and idle;&lt;/li&gt;
+&lt;li&gt;yellow: available and working (read/write activity);&lt;/li&gt;
+&lt;li&gt;red: unavailable.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Thus, the demo was the following. I mounted the RozoFS volume from my computer
+after plugging it to the network switch. Then I played a video stored on RozoFS
+and the monitoring tool showed that 4 cards turned from green to yellow, meaning
+they were implied in the video playing. Then I caused a failure by disconnecting
+one of those implied card from the network. The video continued to be played
+while the monitoring tool showed one reading card turning red, and another one
+turning from green to yellow, meaning a first set of redundant chunks are used.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

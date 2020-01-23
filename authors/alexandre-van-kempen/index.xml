@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Alexandre Van Kempen | Dimitri Pertin</title>
+    <title>Alexandre van Kempen | Dimitri Pertin</title>
     <link>https://dpertin.github.io/authors/alexandre-van-kempen/</link>
       <atom:link href="https://dpertin.github.io/authors/alexandre-van-kempen/index.xml" rel="self" type="application/rss+xml" />
-    <description>Alexandre Van Kempen</description>
+    <description>Alexandre van Kempen</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 12 Jun 2015 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dpertin.github.io/img/dim.jpg</url>
-      <title>Alexandre Van Kempen</title>
+      <title>Alexandre van Kempen</title>
       <link>https://dpertin.github.io/authors/alexandre-van-kempen/</link>
     </image>
     
@@ -18,6 +18,18 @@
       <pubDate>Fri, 12 Jun 2015 00:00:00 +0000</pubDate>
       <guid>https://dpertin.github.io/publication/sifwict2015pertin/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>FEC4Cloud: error correcting codes for cloud storage</title>
+      <link>https://dpertin.github.io/project/fec4cloud/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://dpertin.github.io/project/fec4cloud/</guid>
+      <description>&lt;p&gt;FEC4Cloud is an ANR project that aims at promoting erasure codes in
+fault-tolerant Cloud storage architectures, by investigating algebraic soutions
+(e.g. Reed-Solomon codes) and codes based on discrete geometry (e.g. Mojette
+codes).&lt;/p&gt;
+</description>
     </item>
     
   </channel>

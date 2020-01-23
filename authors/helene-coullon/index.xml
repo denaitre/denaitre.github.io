@@ -1,16 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hélène Coullon | Dimitri Pertin</title>
+    <title>Helene Coullon | Dimitri Pertin</title>
     <link>https://dpertin.github.io/authors/helene-coullon/</link>
       <atom:link href="https://dpertin.github.io/authors/helene-coullon/index.xml" rel="self" type="application/rss+xml" />
-    <description>Hélène Coullon</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <description>Helene Coullon</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 16 Jul 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dpertin.github.io/img/dim.jpg</url>
-      <title>Hélène Coullon</title>
+      <title>Helene Coullon</title>
       <link>https://dpertin.github.io/authors/helene-coullon/</link>
     </image>
+    
+    <item>
+      <title>Madeus: a Formal Deployment Model</title>
+      <link>https://dpertin.github.io/publication/hpcs2018chardet/</link>
+      <pubDate>Mon, 16 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://dpertin.github.io/publication/hpcs2018chardet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovery: Beyond the Clouds</title>
+      <link>https://dpertin.github.io/project/discovery/</link>
+      <pubDate>Fri, 02 Mar 2018 14:41:15 +0100</pubDate>
+      <guid>https://dpertin.github.io/project/discovery/</guid>
+      <description>&lt;p&gt;Discovery aims at implementing a fully decentralized IaaS manager to
+overcome the main limitations of the traditional server-centric cloud solutions
+regarding Fog/Edge infrastructures. To that end, it revises the OpenStack
+software in order to make it inherently cooperative. I was involved in its
+&lt;em&gt;
+&lt;a href=&#34;https://wiki.openstack.org/wiki/Fog_Edge_Massively_Distributed_Clouds&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fog/Edge/Massively Distributed Clouds&lt;/a&gt;
+
+(FEMDC)&lt;/em&gt; working group.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Production Deployment Tools for IaaSes: an Overall Model and Survey</title>

@@ -4,26 +4,51 @@
   
   <url>
     <loc>https://dpertin.github.io/publication_types/1/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dpertin.github.io/authors/adrien-lebre/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://dpertin.github.io/authors/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dpertin.github.io/authors/christian-perez/</loc>
+    <lastmod>2018-07-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://dpertin.github.io/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://dpertin.github.io/authors/dimitri-pertin/</loc>
+    <lastmod>2018-07-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dpertin.github.io/authors/helene-coullon/</loc>
+    <lastmod>2018-07-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dpertin.github.io/publication/hpcs2018chardet/</loc>
+    <lastmod>2018-07-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dpertin.github.io/authors/maverick-chardet/</loc>
+    <lastmod>2018-07-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dpertin.github.io/publication_types/</loc>
+    <lastmod>2018-07-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dpertin.github.io/authors/adrien-lebre/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -43,13 +68,28 @@
   </url>
   
   <url>
-    <loc>https://dpertin.github.io/publication_types/</loc>
+    <loc>https://dpertin.github.io/authors/ronan-alexandre-cherrueau/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dpertin.github.io/authors/ronan-alexandre-cherrueau/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <loc>https://dpertin.github.io/project/madeus/</loc>
+    <lastmod>2018-03-02T15:06:14+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dpertin.github.io/project/</loc>
+    <lastmod>2018-03-02T15:06:14+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dpertin.github.io/authors/anthony-simonet/</loc>
+    <lastmod>2018-03-02T14:45:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dpertin.github.io/tags/automation/</loc>
+    <lastmod>2018-03-02T14:45:44+01:00</lastmod>
   </url>
   
   <url>
@@ -63,7 +103,17 @@
   </url>
   
   <url>
-    <loc>https://dpertin.github.io/project/</loc>
+    <loc>https://dpertin.github.io/authors/matthieu-simonin/</loc>
+    <lastmod>2018-03-02T14:45:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dpertin.github.io/tags/openstack/</loc>
+    <lastmod>2018-03-02T14:45:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dpertin.github.io/tags/performance/</loc>
     <lastmod>2018-03-02T14:45:44+01:00</lastmod>
   </url>
   
@@ -78,28 +128,18 @@
   </url>
   
   <url>
-    <loc>https://dpertin.github.io/authors/christian-perez/</loc>
-    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
+    <loc>https://dpertin.github.io/authors/javier-rojas-balderrama/</loc>
+    <lastmod>2018-03-02T14:41:15+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dpertin.github.io/authors/helene-coullon/</loc>
-    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
+    <loc>https://dpertin.github.io/authors/jonathan-pastor/</loc>
+    <lastmod>2018-03-02T14:41:15+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://dpertin.github.io/publication/ficloud2017coullon/</loc>
     <lastmod>2017-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dpertin.github.io/authors/anthony-simonet/</loc>
-    <lastmod>2017-05-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dpertin.github.io/authors/matthieu-simonin/</loc>
-    <lastmod>2017-05-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -148,12 +188,37 @@
   </url>
   
   <url>
-    <loc>https://dpertin.github.io/tags/erasure_code/</loc>
+    <loc>https://dpertin.github.io/tags/erasure-code/</loc>
+    <lastmod>2014-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dpertin.github.io/tags/mojette/</loc>
+    <lastmod>2014-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dpertin.github.io/authors/olivier-blin/</loc>
+    <lastmod>2014-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dpertin.github.io/tags/polytech/</loc>
+    <lastmod>2014-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dpertin.github.io/authors/quentin-lebourgeois/</loc>
     <lastmod>2014-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://dpertin.github.io/project/rozobox/</loc>
+    <lastmod>2014-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dpertin.github.io/tags/universite-de-nantes/</loc>
     <lastmod>2014-06-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -183,6 +248,21 @@
   </url>
   
   <url>
+    <loc>https://dpertin.github.io/authors/jerome-lacan/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dpertin.github.io/authors/jonathan-detchart/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dpertin.github.io/tags/reed-solomon/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dpertin.github.io/authors/giulio-dippolito/</loc>
     <lastmod>2012-07-04T00:00:00+00:00</lastmod>
   </url>
@@ -190,6 +270,16 @@
   <url>
     <loc>https://dpertin.github.io/publication/isivc2012pertin/</loc>
     <lastmod>2012-07-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dpertin.github.io/authors/didier-feron/</loc>
+    <lastmod>2012-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dpertin.github.io/authors/jean-pierre-monchanin/</loc>
+    <lastmod>2012-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
